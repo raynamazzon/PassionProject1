@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Are Influencers Still Influential?: How Generation Z Views Social Media Influencers’ Credibility & Content
+### By Rayna Mason
+#### May, 2021
 
-You can use the [editor on GitHub](https://github.com/raynamazzon/PassionProject1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### Abstract
+Social media influencers and influencer marketing are at the forefront of the marketing and advertising industry. This summarized research studies Generation Z’s assessment of social media influencers and their perceived trustworthiness. An anonymous survey was used to identify trends, themes, and personal opinions about social media habits and influencer marketing. Results showed that Generation Z is skeptical of social media influencers and paid endorsements; however, credibility can be built to create authentic relationships and trust. Sharing similar interests and aesthetics are key ways to create strong emotional bonds between influencers and their followers. This research can help understand the thoughts and values of one of the largest upcoming generations and how to best communicate with them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Keywords: Generation Z, influencers, marketing
 
-### Markdown
+### Introduction
+The rapid growth of modern technology has allowed for countless innovative career opportunities, one of the largest being social media influencers. In simple terms, social media influencers are individuals paid by brands or organizations to promote products or services to their followers. This cyber-relationship between influencers and their followers has become one of the most impactful tools in the marketing and advertising industry today. This study will explore Generation Z’s perception of influencers, and if that generation still considers them to be influential in brand/product consumption as well as credible sources of information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Self-Congruence Theory in Influencer Marketing
+The self-congruence theory explains that individuals favor brands and brand personalities that align with themselves (Xiajing et al., n.d., 302). One’s self can be split into two subcategories of one’s “ideal self”, how an individual wants to be perceived, and their “actual self”, how an individual truly perceives themselves. 
+People can be positively affected when they see similarities between how they perceive themselves (their actual self) and how they perceive a brand or brand personality (Xiajing et al., n.d., 302). “People who share our attitudes reward us by providing us with consensual validation” (Elliot & Philip, 1966, 157). Similarities between influencers and their audiences create a subconscious bond that makes the influencer seem more attractive to the consumer. This bond instills trust and credibility within the consumer and strengthens their relationship with the social media influencer. These followers are more likely to be persuaded to purchase a product or service suggested by a sponsored influencer because the consumer believes they are similar to the influencer and share the same values and morals. 
+Consumers will also view some influencers as their ideal selves. Whether their lifestyle is more luxurious, active, healthier, or has more time and freedom, followers are attracted to these features because it is what they fantasize about for themselves. The consumer is inspired to purchase products or services that these influencers endorse because they want to emulate this idealized lifestyle. 
 
-```markdown
-Syntax highlighted code block
+### Research Questions & Uniqueness
+RQ 1: Are influencers still considered credible sources to members of Generation-Z?
+RQ 2: What has changed, if anything to alter Generation-Z’s perception of influencers and their influence on Generation-Z? 
+RQ 3: How does an influencer's endorsement influence consumers’ perceptions of brands, and has it changed over time?
+RQ 4: Does Generation-Z respond more to sponsored influencer content or unsponsored content?
+There have been countless studies examining internet influencers, Generation Z, and how these two entities interact with each other. Generation Z is one of the most influential generations due to its size, internet presence, age range, and economic power. Because of this, brands and organizations need to know how to effectively communicate, interact and influence Generation Z; and in recent it has been through the use of social media influencers. Influencing is a multi-billion-dollar industry that has exponentially grown with the development of social media. Conventionally famous people have been influencers for a long time, but now anyone with a strong social media following can get paid to promote a product or service. Since influencing has been straying away from being a perk of fame to being a full-time career, Generation Z has started to question the motives of the influencers they follow. The influencer lifestyle used to be almost unachievable and a distant desire; however, more and more people are achieving the influencer status which is also exposing the industry secrets. Trust and authenticity are important aspects of influencers and their follower’s relationships. When these values are questioned, Generation Z is less likely to be influenced by social media influencers. If this decline of trust and influence continues it could affect the entire influencer industry as well as how brands and organizations market and advertise their business to Generation Z. By knowing if influencer marketing is declining in power, brands and organizations can alter their marketing strategies to better cater to this key demographic. This change can affect consumer habits and marketing across other generations as well, so this research will begin the discussion of whether or not influencer marketing is still a valuable investment or if there needs to be a change in brand-consumer communication.
 
-# Header 1
-## Header 2
-### Header 3
+### Method
+This study uses research obtained from an anonymous survey curated by the researcher to identify themes and gain insight into Generation Z’s perception of social media influencers and influencer marketing. 
+The survey was conducted via Qualtrics, an online survey software. It was a voluntary survey posted on the researcher’s social media platforms (Instagram and Snapchat), their personal GroupMe group messages with students from Elon University, and sent via text to their personal contacts. Being a member of Generation Z (ages 17-24) and being familiar with social media, social media influencers, and/or influencer marketing were the only requirements to take the survey. Participants did not need to follow social media influencers or have purchased products online from paid promotions. There were 122 responses overall, 5 people who are not enrolled in a college or university. The remaining 117 came from a variety of institutions including Elon University, Chapman University, Virginia Tech University, Rollins College, Furman University, Princeton University, Temple University, Drexel University, and Emory University. 
+	With IRB approval and the respondents consent, the survey asked participants about themselves including their age, race, ethnicity, and gender identification. It then questioned if the participants use social media, what they use social media for, and how do they determine who to follow on these platforms. The survey progresses and asks respondents about online purchasing behaviors, asks them to rate written statements about social media influencers, and provide their own personal opinions about influencers and influencer marketing. There is a mix of likert scale questions, closed-ended and open-ended questions to ensure the data is diverse and conclusive.
+	Once the data was collected, the researcher analyzed the Qualtrics created data report that included statistics, visual analyses, and anonymous open ended question answers. Common themes and quotations from the open ended questions were parsed and compared with the statistics.The data will be deleted once the research is completed.
+Findings & Key Points
+When asked, “What do you use social media for?”, the most common responses were: connecting or keeping up with friends and family, entertainment, news, humor/comedy, de-stressing, boredom, taking a break, getting inspiration/ideas from influencers and others, and socializing. Respondents then ranked their top used social media platforms with Instagram, Tik- Tok, and Snapchat at the top. Participants also said that they liked the custom algorithms that curate content specifically for them on some social media platforms, that they can connect with people globally, the easy user interface on many platforms, and that many use photos and videos over text.
+The majority of participants were not likely to purchase products or services recommended by social media influencers and the largest reason why was because they do not trust them as they did before. With that being said, the same group of people were more likely to purchase products or services recommended by peers and relatives “because [my peers or relatives] have my best interest and they do not benefit from advising me to buy a product”. This generation has grown up with the internet and is constantly cautious about being hacked or scammed, and influencer marketing is a common and easy way to do it. They are also looking into others pasts more than they used to. Instead of blindly trusting, Generation Z is doing their research and seeing if they have a history of being genuine or if they are only advocating for things for personal gain. 
+According to the research, Generation Z prefers organic content over promoted content on social media. Since influencers are paid to promote products and services, this generation is automatically more skeptical about the item and the intention behind endorsing it. More respondents purchased a product that went viral on the internet than items that were paid promotions because the reviews were genuine and credible. The research shows that these recommendations are more valuable and trustworthy than the reviews from paid endorsements. This aspect of genuine recommendations can create a shift in how influencer marketing works. Instead of social media influencers being paid directly to promote a product or service, brands and organizations should incorporate earned media.
 
-- Bulleted
-- List
+### Conclusion & Future Research
+The self-congruence theory assists in explaining why Generation Z values credibility with social media influencers. When this generation determines authenticity within social media influencers, they are more likely to trust the influencer and the things they promote. Using photos, videos, and other visuals is a way to help establish credibility because it establishes humanness. Humanity assists in creating emotional bonds, which is imperative when forming relationships. Generation Z values their peer's opinions, so influencers that are successful in creating these bonds are more likely to instill trust with their followers because the relationship feels natural. Highlighting similarities and determining a niche is a great way for influencers to create bonds with their audiences. The algorithm will place these influencers on the social media sites of similar members of Generation Z, and by having aesthetically pleasing accounts, along with content that matches their interests, they will be more likely to initiate a connection. Marketing products that match the influencer's human brand is also crucial in establishing credibility within Generation Z. While this generation is skeptical about paid endorsements, they value the authenticity of earned media and genuine reviews. The research shows that Generation Z admires social media influencers that match their actual self because they appear more authentic and trustworthy, creating a relationship similar to a friendship rather than a paid partnership.
+In the future, having a larger survey response would be beneficial. It should also be more diverse in race, ethnicity, gender, and socioeconomic status. By asking different questions, participants can dive deeper into the discussion of trust within social media influencers. An example of this would be asking if people have ever unfollowed an influencer because of a scandal, and if they forgave them. Follow-up focus groups and interviews would also allow participants to further explain their rationale and facilitate a place for an in-depth discussion of ideas.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raynamazzon/PassionProject1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### References
+Elliot, A., & Philip, W. (1966). Similarity versus liking as determinants of interpersonal attractiveness. Psychonomic Science, 5, 157-158. https://doi.org/10.3758/BF03328329
+Xiajing, Z., Lefa, T., & Yige, Y. (n.d.). Using Self-Congruence Theory to Explain the Interaction Effects of Brand Type and Celebrity Type on Consumer Attitude Formation. Journal of Business Research, 103(0148-2963), 301-309. https://www.sciencedirect.com/science/article/pii/S0148296319300748#!
