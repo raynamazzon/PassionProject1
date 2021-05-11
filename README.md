@@ -38,4 +38,5 @@ In the future, having a larger survey response would be beneficial. It should al
 
 ### References
 Elliot, A., & Philip, W. (1966). Similarity versus liking as determinants of interpersonal attractiveness. Psychonomic Science, 5, 157-158. https://doi.org/10.3758/BF03328329
+
 Xiajing, Z., Lefa, T., & Yige, Y. (n.d.). Using Self-Congruence Theory to Explain the Interaction Effects of Brand Type and Celebrity Type on Consumer Attitude Formation. Journal of Business Research, 103(0148-2963), 301-309. https://www.sciencedirect.com/science/article/pii/S0148296319300748#!
